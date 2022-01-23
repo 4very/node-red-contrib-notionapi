@@ -1,0 +1,25 @@
+{
+  "name": "node-red-contrib-notionapi",
+  "version": "0.0.1",
+  "description": "Node Red nodes to Query the Notion API",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4very/node-red-contrib-notionapi.git"
+  },
+  "keywords": [
+    "node-red",
+    "notion",
+    "api"
+  ],
+  "author": "4very",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4very/node-red-contrib-notionapi/issues"
+  },
+  "homepage": "https://github.com/4very/node-red-contrib-notionapi#readme",
+  "node-red": {
+    "nodes": {
+      "notion": "notion.js"
+    }
+  }
+}
